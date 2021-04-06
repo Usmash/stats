@@ -1,5 +1,5 @@
-module github.com/Usmash/stats
+module github.com/Usmash/stats/v2
 
 go 1.16
 
-require github.com/Usmash/bank v0.0.0-20210406111130-68289f8c898e 
+require github.com/Usmash/bank/v2 v2.0.0
